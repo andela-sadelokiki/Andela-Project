@@ -1,4 +1,4 @@
-# Andela-Project
+#Andela-Project
 An analogue clock
 -designed with a canvas
 -gets Time
