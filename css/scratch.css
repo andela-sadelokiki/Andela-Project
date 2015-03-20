@@ -1,0 +1,21 @@
+body { 
+	font-size:62.5%; 
+	margin:1em; 
+	background-color: blue;
+	background-repeat: none;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMI1o3f9TKcXQTc41Pfn-iTgO9ZOu9y-cadS1qSMpYK0d7bxt9");
+    
+
+
+}
+canvas{
+margin: 0 auto;
+position: absolute; left: 350px;
+background-image: url("img/andela-logo1.png");
+background-size: 600px 600px;
+}
+img{
+	position: absolute; left:375px;
+	top:42px;
+}
+

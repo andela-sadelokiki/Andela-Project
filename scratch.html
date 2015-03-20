@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="css/scratch.css">
+</head>
+ <body>
+
+<audio id ="clockTick" preload = "auto">
+ <source src = "sound/pop.mp3"/>
+ </audio>
+
+<img id="clockbackground"  src = "img/andela-logo1.png"/>
+<canvas id="canvas" width="550" height="530"></canvas>
+
+<!--
+<script>
+var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
+var radius = canvas.height / 2;
+ctx.translate(radius, radius);
+radius = radius * 0.90
+drawClock();
+
+function drawClock() {
+    ctx.arc(0, 0, radius, 0 , 2*Math.PI);
+    ctx.fillStyle = "white";
+    ctx.fill();
+}
+-->
+
+<script src="js/scratch.js"></script>
+</body>
+</html>
